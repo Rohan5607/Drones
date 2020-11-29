@@ -1,0 +1,20 @@
+h1
+{
+ text-align: center;
+ margin-top: 20px;
+}
+.image1
+{
+    padding: 0px 100px;
+}
+.intro{
+    font-size: 28px;
+    padding: 5px 100px;
+}
+.d3{
+    height: 300px;
+}
+.W{
+    margin: 20px 100px;
+    font-size: 25px;
+}
